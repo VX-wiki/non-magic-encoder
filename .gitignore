@@ -1,0 +1,17 @@
+# KiCad — local state, caches, and auto-generated backups
+*.bak
+*-bak
+*.kicad_prl
+fp-info-cache
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.000
+*.net
+
+# OS / editor cruft
+desktop.ini
+Thumbs.db
+.DS_Store
+*~

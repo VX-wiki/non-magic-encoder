@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "lime") (type "KiCad") (uri "${KIPRJMOD}/lime.pretty") (options "") (descr ""))
+	(lib (name "libs") (type "KiCad") (uri "${KIPRJMOD}/libs") (options "") (descr ""))
+)

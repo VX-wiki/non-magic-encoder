@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "lime") (type "KiCad") (uri "${KIPRJMOD}/lime.kicad_sym") (options "") (descr ""))
+	(lib (name "AM26C31QDR") (type "KiCad") (uri "${KIPRJMOD}/libs/AM26C31QDR.kicad_sym") (options "") (descr ""))
+)
