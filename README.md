@@ -135,7 +135,7 @@ Do both, in this order. They are different procedures on different hardware; the
 1. **Power on the bike, but do not try to start it.**
 2. **Turn the wheel by hand and watch the LED.** It should give **5 pulses per wheel revolution**. If it does, the magnet and alignment are good.
 3. **Run the calibration spin.** Put the bike on the centre stand and spin the rear wheel with a hand drill pressed against the tyre, holding roughly **5 km/h** (read off the dash or scooter diagnostic software).
-4. **Hold the calibration button.** Calibration needs **more than 64 rotations** to complete; expect to hold the button for under ~20 seconds. The LED shows progress:
+4. **Hold the calibration button.** Calibration needs **more than 64 rotations** to complete; expect to hold the button for under ~20 seconds. **THE SPEED TARGET IS APPROX 10-30-ish km/h, so no need to be very precise. If you are too slow or fast- it will just fail and let you know with the led** The LED shows progress:
 
    | LED state | Meaning |
    | --- | --- |
